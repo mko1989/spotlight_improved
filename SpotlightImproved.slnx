@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Spotlight.Core/Spotlight.Core.csproj" />
+    <Project Path="src/SpotlightImproved/SpotlightImproved.csproj" />
+    <Project Path="src/SpotlightProbe/SpotlightProbe.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Spotlight.Core.Tests/Spotlight.Core.Tests.csproj" />
+  </Folder>
+</Solution>
